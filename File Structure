@@ -1,0 +1,12 @@
+/api
+  server.js
+  /config
+      db.js
+  /routes
+      userRoutes.js
+  /controllers
+      userController.js
+  /models
+      User.js
+  .env
+  package.json
